@@ -1,0 +1,62 @@
+[
+    {
+        "alumno": "12345678A",
+        "profesor": "87654321B",
+        "matricula_vehiculo": "1234ABC",
+        "fecha_hora": "20-03-2024 10:00"
+    },
+    {
+        "alumno": "23456789B",
+        "profesor": "87654322C",
+        "matricula_vehiculo": "5678DEF",
+        "fecha_hora": "21-03-2024 11:00"
+    },
+    {
+        "alumno": "34567890C",
+        "profesor": "87654323D",
+        "matricula_vehiculo": "9012GHI",
+        "fecha_hora": "22-03-2024 09:30"
+    },
+    {
+        "alumno": "45678901D",
+        "profesor": "87654321B",
+        "matricula_vehiculo": "1234ABC",
+        "fecha_hora": "23-03-2024 14:00"
+    },
+    {
+        "alumno": "56789012E",
+        "profesor": "87654322C",
+        "matricula_vehiculo": "5678DEF",
+        "fecha_hora": "24-03-2024 15:30"
+    },
+    {
+        "alumno": "67890123F",
+        "profesor": "87654323D",
+        "matricula_vehiculo": "9012GHI",
+        "fecha_hora": "25-03-2024 10:00"
+    },
+    {
+        "alumno": "78901234G",
+        "profesor": "87654321B",
+        "matricula_vehiculo": "1234ABC",
+        "fecha_hora": "26-03-2024 11:30"
+    },
+    {
+        "alumno": "89012345H",
+        "profesor": "87654324E",
+        "matricula_vehiculo": "3456JKL",
+        "fecha_hora": "27-03-2024 13:00"
+    },
+    {
+        "alumno": "90123456I",
+        "profesor": "87654325F",
+        "matricula_vehiculo": "7890MNO",
+        "fecha_hora": "28-03-2024 09:00"
+    },
+    {
+        "alumno": "01234567J",
+        "profesor": "87654326G",
+        "matricula_vehiculo": "2345PQR",
+        "fecha_hora": "29-03-2024 16:00"
+    }
+]

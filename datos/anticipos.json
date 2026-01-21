@@ -1,0 +1,62 @@
+[
+    {
+        "alumno": "12345678A",
+        "fecha": "05-03-2024",
+        "concepto": "Primer pago matrícula",
+        "cantidad": 150.0
+    },
+    {
+        "alumno": "23456789B",
+        "fecha": "06-03-2024",
+        "concepto": "Pago parcial clases",
+        "cantidad": 100.0
+    },
+    {
+        "alumno": "34567890C",
+        "fecha": "07-03-2024",
+        "concepto": "Primer pago",
+        "cantidad": 200.0
+    },
+    {
+        "alumno": "45678901D",
+        "fecha": "08-03-2024",
+        "concepto": "Anticipo general",
+        "cantidad": 120.0
+    },
+    {
+        "alumno": "56789012E",
+        "fecha": "09-03-2024",
+        "concepto": "Pago inicial",
+        "cantidad": 180.0
+    },
+    {
+        "alumno": "67890123F",
+        "fecha": "10-03-2024",
+        "concepto": "Primer pago parcial",
+        "cantidad": 140.0
+    },
+    {
+        "alumno": "78901234G",
+        "fecha": "11-03-2024",
+        "concepto": "Anticipo de matrícula",
+        "cantidad": 250.0
+    },
+    {
+        "alumno": "89012345H",
+        "fecha": "12-03-2024",
+        "concepto": "Pago de clases",
+        "cantidad": 110.0
+    },
+    {
+        "alumno": "90123456I",
+        "fecha": "13-03-2024",
+        "concepto": "Matrícula parcial",
+        "cantidad": 160.0
+    },
+    {
+        "alumno": "01234567J",
+        "fecha": "14-03-2024",
+        "concepto": "Pago inicial matricula",
+        "cantidad": 175.0
+    }
+]

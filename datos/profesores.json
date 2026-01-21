@@ -1,0 +1,122 @@
+[
+    {
+        "nombre": "Carlos",
+        "primer_apellido": "Ruiz",
+        "segundo_apellido": "López",
+        "vehiculo": "1234ABC",
+        "tipo_vehiculo": "Turismo",
+        "itv": "30-06-2025",
+        "gastos_combustible": {
+            "10-02-2024": 45.6,
+            "18-02-2024": 38.2
+        }
+    },
+    {
+        "nombre": "Ana",
+        "primer_apellido": "Fernández",
+        "segundo_apellido": "García",
+        "vehiculo": "5678DEF",
+        "tipo_vehiculo": "Turismo",
+        "itv": "15-08-2025",
+        "gastos_combustible": {
+            "12-02-2024": 52.4,
+            "20-02-2024": 41.8
+        }
+    },
+    {
+        "nombre": "Miguel",
+        "primer_apellido": "Torres",
+        "segundo_apellido": "Sánchez",
+        "vehiculo": "9012GHI",
+        "tipo_vehiculo": "Turismo",
+        "itv": "22-05-2025",
+        "gastos_combustible": {
+            "14-02-2024": 38.5,
+            "21-02-2024": 45.7
+        }
+    },
+    {
+        "nombre": "Patricia",
+        "primer_apellido": "Moreno",
+        "segundo_apellido": "Díaz",
+        "vehiculo": "3456JKL",
+        "tipo_vehiculo": "Turismo",
+        "itv": "10-07-2025",
+        "gastos_combustible": {
+            "16-02-2024": 50.0,
+            "24-02-2024": 42.3
+        }
+    },
+    {
+        "nombre": "Javier",
+        "primer_apellido": "Gómez",
+        "segundo_apellido": "Ramírez",
+        "vehiculo": "7890MNO",
+        "tipo_vehiculo": "Turismo",
+        "itv": "18-09-2025",
+        "gastos_combustible": {
+            "17-02-2024": 44.2,
+            "25-02-2024": 39.8
+        }
+    },
+    {
+        "nombre": "Sandra",
+        "primer_apellido": "Martínez",
+        "segundo_apellido": "López",
+        "vehiculo": "2345PQR",
+        "tipo_vehiculo": "Turismo",
+        "itv": "05-06-2025",
+        "gastos_combustible": {
+            "19-02-2024": 47.6,
+            "26-02-2024": 43.2
+        }
+    },
+    {
+        "nombre": "Roberto",
+        "primer_apellido": "Jiménez",
+        "segundo_apellido": "García",
+        "vehiculo": "6789STU",
+        "tipo_vehiculo": "Turismo",
+        "itv": "12-04-2025",
+        "gastos_combustible": {
+            "21-02-2024": 51.4,
+            "27-02-2024": 40.6
+        }
+    },
+    {
+        "nombre": "Valentina",
+        "primer_apellido": "Castro",
+        "segundo_apellido": "Molina",
+        "vehiculo": "0123VWX",
+        "tipo_vehiculo": "Turismo",
+        "itv": "28-08-2025",
+        "gastos_combustible": {
+            "23-02-2024": 46.8,
+            "28-02-2024": 38.4
+        }
+    },
+    {
+        "nombre": "Andrés",
+        "primer_apellido": "Flores",
+        "segundo_apellido": "Navarro",
+        "vehiculo": "4567YZA",
+        "tipo_vehiculo": "Turismo",
+        "itv": "20-03-2025",
+        "gastos_combustible": {
+            "25-02-2024": 49.2,
+            "29-02-2024": 41.7
+        }
+    },
+    {
+        "nombre": "Cristina",
+        "primer_apellido": "Ruiz",
+        "segundo_apellido": "Sánchez",
+        "vehiculo": "8901BCD",
+        "tipo_vehiculo": "Turismo",
+        "itv": "11-07-2025",
+        "gastos_combustible": {
+            "27-02-2024": 53.1,
+            "01-03-2024": 44.5
+        }
+    }
+]

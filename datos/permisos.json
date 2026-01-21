@@ -1,0 +1,18 @@
+[
+    {
+        "tipo_permiso": "A",
+        "precio_matricula": 500.0,
+        "clases_incluidas": 10,
+        "precio_por_clase": 50.0,
+        "precio_examen": 100.0,
+        "precio_renovacion": 200.0
+    },
+    {
+        "tipo_permiso": "B",
+        "precio_matricula": 550.0,
+        "clases_incluidas": 12,
+        "precio_por_clase": 52.0,
+        "precio_examen": 105.0,
+        "precio_renovacion": 210.0
+    }
+]

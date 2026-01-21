@@ -1,0 +1,10 @@
+S0141403_SINF_EJERCICIO DE FEEDBACK FINAL.pdf
+*.ini
+.ini
+*.pyc
+.pyc
+__pycache__/
+testsU/
+testsU/*
+*.txt
+testCompleto.py
